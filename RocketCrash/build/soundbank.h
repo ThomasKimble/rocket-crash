@@ -1,0 +1,10 @@
+#define SFX_CRASH	0
+#define MOD_MUSIC	0
+#define SFX_POWER	30
+#define SFX_SELECT	31
+#define SFX_STOP	32
+#define SFX_SWITCH	33
+#define SFX_TICKTOCK	34
+#define MSL_NSONGS	1
+#define MSL_NSAMPS	35
+#define MSL_BANKSIZE	36
